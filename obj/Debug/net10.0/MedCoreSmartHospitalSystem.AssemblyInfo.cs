@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedCoreSmartHospitalSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc197e2b616b31c168edac907912e43cb3454979")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3631844a870919467739bf530e268d741c15c398")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedCoreSmartHospitalSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedCoreSmartHospitalSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

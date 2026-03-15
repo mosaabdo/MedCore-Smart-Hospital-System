@@ -99,6 +99,7 @@ namespace MedCoreSmartHospitalSystem
                     catch (DbUpdateConcurrencyException)
                     {
                         Console.WriteLine("Success: Concurrency Conflict caught! RowVersion prevented data loss.\n");
+                        context.ChangeTracker.Clear();
                     }
                     #endregion
 
@@ -119,6 +120,8 @@ namespace MedCoreSmartHospitalSystem
                     catch (Exception ex)
                     {
                         Console.WriteLine($"Success: Database rejected invalid range. Message: {ex.InnerException?.Message}\n");
+
+                        context.ChangeTracker.Clear();
                     }
                     #endregion
 

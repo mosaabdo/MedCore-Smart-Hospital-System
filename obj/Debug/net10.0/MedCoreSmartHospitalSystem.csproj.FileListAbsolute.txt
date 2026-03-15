@@ -153,3 +153,4 @@ C:\Users\micro\Desktop\HOME\ITI\ITI\lecture\entity\Project\MedCoreSmartHospitalS
 C:\Users\micro\Desktop\HOME\ITI\ITI\lecture\entity\Project\MedCoreSmartHospitalSystem\MedCoreSmartHospitalSystem\obj\Debug\net10.0\MedCoreSmartHospitalSystem.pdb
 C:\Users\micro\Desktop\HOME\ITI\ITI\lecture\entity\Project\MedCoreSmartHospitalSystem\MedCoreSmartHospitalSystem\obj\Debug\net10.0\MedCoreSmartHospitalSystem.genruntimeconfig.cache
 C:\Users\micro\Desktop\HOME\ITI\ITI\lecture\entity\Project\MedCoreSmartHospitalSystem\MedCoreSmartHospitalSystem\obj\Debug\net10.0\ref\MedCoreSmartHospitalSystem.dll
+C:\Users\micro\Desktop\HOME\ITI\ITI\lecture\entity\Project\MedCoreSmartHospitalSystem\MedCoreSmartHospitalSystem\obj\Debug\net10.0\MedCoreSmartHospitalSystem.sourcelink.json
